@@ -21,5 +21,6 @@
   },
   "bin": {
     "smart-mini-cli": "./bin/index.js"
-  }
+  },
+  "gitHead": "1de2fb68eee681c58987ba1641873e7b9aa9d05b"
 }
