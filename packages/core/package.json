@@ -1,6 +1,6 @@
 {
   "name": "@smart-mini-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "smart-mini-cli core",
   "author": "wangyongju <wangyongju@tal.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "bin":{
-    "smart-mini-cli":"./bin/index.js"
+  "bin": {
+    "smart-mini-cli": "./bin/index.js"
   }
 }
