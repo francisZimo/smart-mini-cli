@@ -22,5 +22,5 @@
   "bin": {
     "smart-mini-cli": "./bin/index.js"
   },
-  "gitHead": "b7154bf05b16a685055cb6d5393898da91f9c281"
+  "gitHead": "1d921be57d45d78de643697fc23216517f24a8b1"
 }
