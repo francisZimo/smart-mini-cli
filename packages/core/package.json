@@ -1,0 +1,22 @@
+{
+  "name": "@smart-mini-cli/core",
+  "version": "1.0.0",
+  "description": "smart-mini-cli core",
+  "author": "wangyongju <wangyongju@tal.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.xesv5.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
