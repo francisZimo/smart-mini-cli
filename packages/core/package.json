@@ -22,5 +22,11 @@
   "bin": {
     "smart-mini-cli": "./bin/index.js"
   },
-  "gitHead": "99f31f2fe5a38dca49e6edaf56d422016321f41b"
+  "gitHead": "99f31f2fe5a38dca49e6edaf56d422016321f41b",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.0",
+    "log-symbols": "^4.1.0",
+    "ora": "^5.4.1"
+  }
 }
